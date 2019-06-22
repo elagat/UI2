@@ -3109,7 +3109,7 @@ input, select, textarea {
 				line-height: inherit;
 			}
 
-				#footer footer .copyright li {
+				#footer footer ul li {
 					border-left: 0;
 					display: block;
 					margin: 0;
